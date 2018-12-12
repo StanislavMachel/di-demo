@@ -1,6 +1,6 @@
 package com.example.didemo.controllers;
 
-import com.example.didemo.services.GreetingServiceImpl;
+import com.example.services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
 
