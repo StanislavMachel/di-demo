@@ -3,3 +3,10 @@ didemo:
     username: JMS Username
     password: s0mePa$$w0rd
     dburl: SomeUrl
+
+---
+spring:
+  profile: de
+didemo:
+  jms:
+    username: JMS Username - German
