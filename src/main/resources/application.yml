@@ -1,0 +1,5 @@
+didemo:
+  jms:
+    username: JMS Username
+    password: s0mePa$$w0rd
+    dburl: SomeUrl
